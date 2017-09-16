@@ -9,7 +9,7 @@ contract Fibonacci {
 		} else {
 			uint fib1 = 1;
 			uint fib2 = 1;
-			uint index = 1;
+			uint index = 2;
 			uint temp;
 			while (index < position) {
 				temp = fib2;
